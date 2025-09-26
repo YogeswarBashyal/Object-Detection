@@ -2,11 +2,11 @@
 
 The SkyFusion dataset is designed for detecting tiny objects in satellite images. While most datasets emphasize larger objects or structures, SkyFusion focuses on small-scale targets such as:
 
-🚗 Vehicles
+Vehicles
 
-🚢 Ships
+Ships
 
-✈️ Aircraft
+Aircraft
 
 This dataset combines and refines two sources:
 
@@ -14,7 +14,7 @@ AiTOD v2 (for vehicles & ships)
 
 Airbus Aircraft Detection (for aircraft balance)
 
-📂 Dataset Details
+Dataset Details
 
 Dataset Base: AiTOD v2 + Airbus Aircraft Detection
 
